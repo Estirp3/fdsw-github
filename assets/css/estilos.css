@@ -1,5 +1,7 @@
 body {
   font-family: "Raleway", sans-serif;
+  background-color: #3d4044;
+  color: aliceblue;
 }
 
 /* Hero Section */
@@ -9,8 +11,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
-
-
 }
 
 /* Mis trabajos */
@@ -34,8 +34,12 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
-
+}
+.iconosMIos {
+  margin-top: 28px;
+  width: 60px;
+  height: 60px;
 }
